@@ -1,8 +1,8 @@
 {
   "class": "com.rsbuddy.osrs.plugins.example.ExamplePlugin",
-  "description": "OSBuddy Example Plugin",
+  "description": "Skill Wiki Guides",
   "version": "1.0.0",
-  "developers": [],
+  "developers": [tropicana238],
   "settings": [
 	{
 	  "id": "Draw hello world",
